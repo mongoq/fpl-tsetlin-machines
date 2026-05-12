@@ -1,8 +1,6 @@
 # Tsetlin Machine XOR (in Verilog)
 
 ```text
-./runme.sh
-
 Executable 'tsetlin_machine_sim' found, executing.
 ==============================================
 Tsetlin Machine XOR Test
