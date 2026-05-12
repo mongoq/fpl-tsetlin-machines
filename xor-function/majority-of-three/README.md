@@ -1,4 +1,7 @@
-# Majority of Three (2-out-of-3 = 1)
+# Majority of Three 
+
+
+Output = 1 if at least 2 out of 3 inputs are 1
 
 ```  
 ==============================================
