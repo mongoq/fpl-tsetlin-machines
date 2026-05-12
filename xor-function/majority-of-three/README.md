@@ -1,7 +1,7 @@
 # Majority of Three 
 
 
-Output = 1 if at least 2 out of 3 inputs are 1
+Output = 1 if at least 2 out of 3 inputs are 1.
 
 ```  
 ==============================================
