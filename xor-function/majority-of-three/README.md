@@ -1,4 +1,4 @@
-# Majority of three (two out of three yields a 1)
+# # Majority of Three (2-out-of-3 = 1)
 
 ```  
 ==============================================
