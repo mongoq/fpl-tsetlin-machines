@@ -26,4 +26,4 @@ Sources (Green Tsetlin Machine):
 * https://github.com/ooki/green_tsetlin
 
 Sources (MNIST dataset):  
-* https://botpenguin.com/glossary/mnist-dataset
+* https://botpenguin.com/glossary/mnist-dataset (403 Forbidden only when clicking URL from GitHub)
