@@ -1,7 +1,6 @@
 # Tsetlin Machine XOR (in Verilog)
 
 ```text
-Executable 'tsetlin_machine_sim' found, executing.
 ==============================================
 Tsetlin Machine XOR Test
 Features=2 Clauses=20 States=100
