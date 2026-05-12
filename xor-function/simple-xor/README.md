@@ -1,4 +1,4 @@
-# Tsetlin Machine XOR (in Verilog)
+# Tsetlin Machine XOR
 
 ```text
 ==============================================
