@@ -1,6 +1,10 @@
 # Green Tsetlin Machine
 
-This project tries to simplify the assembly and evaluation process of a Green Tsetlin Machine that can train and classify images of the MNIST dataset. 
+<!-- This project tries to simplify the assembly and evaluation process of a so-called Green Tsetlin Machine that can train and classify images of the MNIST dataset. --> 
+
+This project aims to simplify the setup, training, and evaluation of a Green Tsetlin Machine for handwritten digit recognition on the MNIST dataset. Green Tsetlin provides a practical framework for training and inference and supports exporting trained models, making them easier to reuse in external applications or hardware-oriented workflows.
+
+<!-- Green Tsetlin is a practical, production-oriented Tsetlin Machine framework that separates training and inference, provides a high-performance C++ backend with Python orchestration, and supports model export for efficient deployment and embedded applications. -->
 
 With this project you have:
 
