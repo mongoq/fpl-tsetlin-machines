@@ -1,5 +1,4 @@
 # Green Tsetlin Machine
-Adapting Sondre Glimsdal's Green Tsetlin Machine Framework.
 
 This project tries to simplify the assembly and evaluation process of a Green Tsetlin Machine that can train and classify images of the MNIST dataset. 
 
@@ -22,9 +21,9 @@ TODO:
 - [ ] Try to port this to FPGA Verilog (Verilator) with a pixel painter extension for Verilog array output  
 
 Sources (Green Tsetlin Machine):  
-https://arxiv.org/abs/2405.04212  
-https://green-tsetlin.readthedocs.io/en/latest/  
-https://github.com/ooki/green_tsetlin
+* https://arxiv.org/abs/2405.04212  
+* https://green-tsetlin.readthedocs.io/en/latest/  
+* https://github.com/ooki/green_tsetlin
 
 Sources (MNIST dataset):  
-https://botpenguin.com/glossary/mnist-dataset
+* https://botpenguin.com/glossary/mnist-dataset
