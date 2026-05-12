@@ -1,5 +1,7 @@
 # Tsetlin Machine XOR
 
+Simple implementation of the XOR function.
+
 ```text
 ==============================================
 Tsetlin Machine XOR Test
