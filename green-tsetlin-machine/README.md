@@ -3,14 +3,6 @@ Adapting Sondre Glimsdal's Green Tsetlin Machine Framework.
 
 This project tries to simplify the assembly and evaluation process of a Green Tsetlin Machine that can train and classify images of the MNIST dataset. 
 
-Sources (Green Tsetlin Machine):  
-https://arxiv.org/abs/2405.04212  
-https://green-tsetlin.readthedocs.io/en/latest/  
-https://github.com/ooki/green_tsetlin
-
-Sources (MNIST dataset):  
-https://botpenguin.com/glossary/mnist-dataset
-
 With this project you have:
 
 * A Google Colab (Pro) notebook (.ipynb file) that can be used to train and classify MNIST 28x28 pixel binary images.  
@@ -28,3 +20,11 @@ TODO:
 - [ ] Figure out ESP32 microcontroller compatibility
 - [ ] Try C-code with only parsing the .h image, not compiling it every time again
 - [ ] Try to port this to FPGA Verilog (Verilator) with a pixel painter extension for Verilog array output  
+
+Sources (Green Tsetlin Machine):  
+https://arxiv.org/abs/2405.04212  
+https://green-tsetlin.readthedocs.io/en/latest/  
+https://github.com/ooki/green_tsetlin
+
+Sources (MNIST dataset):  
+https://botpenguin.com/glossary/mnist-dataset
