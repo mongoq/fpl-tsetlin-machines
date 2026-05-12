@@ -1,3 +1,3 @@
 # Logical Test Functions for Tsetlin Machines
 
-TODO
+Two simple logical benchmark functions for evaluating and validating Tsetlin Machine implementations.
