@@ -22,12 +22,12 @@ TODO:
 - [ ] Try hyperparameter sweep using [Optuna](https://optuna.org/)
 - [ ] Figure out ESP32 microcontroller compatibility
 - [ ] Try C-code with only parsing the .h image, not compiling it every time again
-- [ ] Try to port this to FPGA Verilog (Verilator) with a pixel painter extension for Verilog array output  
+- [ ] Try to port this to Verilog (Verilator) with a pixel painter extension for Verilog array output  
 
 Sources (Green Tsetlin Machine):  
-* https://arxiv.org/abs/2405.04212  
-* https://green-tsetlin.readthedocs.io/en/latest/  
-* https://github.com/ooki/green_tsetlin
+* [Green Tsetlin Machine Paper (arXiv)](https://arxiv.org/abs/2405.04212)
+* [Green Tsetlin Documentation](https://green-tsetlin.readthedocs.io/en/latest/)
+* [Green Tsetlin GitHub Repository](https://github.com/ooki/green_tsetlin)
 
 Sources (MNIST dataset):  
-* https://botpenguin.com/glossary/mnist-dataset (403 Forbidden only when clicking URL from GitHub)
+* [MNIST Dataset Overview](https://botpenguin.com/glossary/mnist-dataset) (403 Forbidden only when clicking URL from GitHub)
