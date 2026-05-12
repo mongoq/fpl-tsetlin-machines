@@ -19,7 +19,7 @@ With this project you have:
 * A Python script called Pixel Painter can be used to draw the digits 0-9 and export the resulting 28x28 pixel image either as a Python Pickle (.pkl) or C-header (.h) file.
 
 TODO:
-- [ ] Try hyperparameter sweep
+- [ ] Try hyperparameter sweep using [Optuna](https://optuna.org/)
 - [ ] Figure out ESP32 microcontroller compatibility
 - [ ] Try C-code with only parsing the .h image, not compiling it every time again
 - [ ] Try to port this to FPGA Verilog (Verilator) with a pixel painter extension for Verilog array output  
